@@ -6,11 +6,10 @@
 ### <div align="center">I'm Ahmad, a software developer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently working on Mobile App Development  
   
 
-- ⚡ Passionate about Mobile App Development  
-  
+- ⚡ Passionate about DevOps
 
 - 📫 Reach out to me at ahmadmuhdpk@gmail.com  
   
