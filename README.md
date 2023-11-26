@@ -3,11 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Ahmad, a software developer 👨‍💻🚀</div>  
+### <div align="center">I'm Ahmad, a software engineer 👨‍💻🚀</div>  
   
 
 - 🌱 I’m currently working on Mobile App Development  
-  
 
 - ⚡ Passionate about DevOps
 
