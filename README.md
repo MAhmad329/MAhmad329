@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on Mobile App Development  
 
-- ⚡ Passionate about DevOps
+- ⚡ I have expertise in Flutter
 
 - 📫 Reach out to me at ahmadmuhdpk@gmail.com  
   
