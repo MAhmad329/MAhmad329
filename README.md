@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ahmad, a software engineer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently working on Mobile App Development  
+- 🌱 I’m currently working in Mobile App Development  
 
 - ⚡ I have expertise in Flutter
 
