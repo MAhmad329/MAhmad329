@@ -6,9 +6,9 @@
 ### <div align="center">I'm Ahmad, a software engineer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently working in Mobile App Development  
+- 🌱 I’m currently working in Mobile App Development 
 
-- ⚡ I have expertise in Flutter
+- ⚡ I am currently learning Python
 
 - 📫 Reach out to me at ahmadmuhdpk@gmail.com  
   
