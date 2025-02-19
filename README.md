@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently working in Mobile App Development 
 
-- ⚡ I am currently learning Python
-
 - 📫 Reach out to me at ahmadmuhdpk@gmail.com  
   
 
